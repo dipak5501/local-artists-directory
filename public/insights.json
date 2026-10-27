@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-26T22:38:34.798Z",
+  "updatedAt": "2026-10-27T01:40:51.577Z",
   "app": "Local Artists Directory",
   "headline": "Enhance Local Artists Directory with Public Trend Signals",
-  "summary": "Integrate public trend signals to improve the discovery and engagement of local artists, making the app more relevant and user-friendly. Leverage AI for personalized recommendations and enhance artist profiles with multimedia content.",
+  "summary": "By integrating public trend signals, the Local Artists Directory can offer more relevant and engaging content to users, improving their discovery experience of local artists. This will involve incorporating AI-driven recommendations and interactive features based on user behavior.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 39074
+      "score": 39375
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 23005
+      "score": 23041
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 9541
+      "score": 9787
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 6020
-    },
-    {
-      "source": "github_search",
-      "title": "seedds/nxnative",
-      "url": "https://github.com/seedds/nxnative",
-      "score": 5966
+      "score": 6128
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5768
+      "score": 5796
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 4868
     }
   ]
 }
