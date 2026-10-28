@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-28T11:03:28.538Z",
+  "updatedAt": "2026-10-28T14:05:45.258Z",
   "app": "Local Artists Directory",
   "headline": "Enhance Local Artists Directory with Public Trend Signals",
-  "summary": "Integrate AI-driven recommendations and clean-up tools to improve user experience, streamline artist discovery, and ensure a clutter-free browsing environment for the Local Artists Directory.",
+  "summary": "By integrating public trend signals, the Local Artists Directory can offer more relevant and engaging content to users. This will help in discovering local artists and their work more effectively.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 42840
+      "score": 43121
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 23620
+      "score": 23710
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 11859
+      "score": 12016
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 7211
+      "score": 7283
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6151
+      "score": 6188
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5125
+      "score": 5152
     }
   ]
 }
