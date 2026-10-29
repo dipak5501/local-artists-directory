@@ -377,3 +377,21 @@ Signals:
 - Zagitta/gpu-unlock
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
+
+## 2026-10-29 — web-learn-2026-10-29T05
+
+Enhance Local Artists Directory with Trend Signals
+
+Integrate AI-driven recommendations and clean-up tools to improve user experience, enhance artist discovery, and ensure smooth browsing on the Local Artists Directory app.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
