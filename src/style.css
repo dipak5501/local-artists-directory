@@ -1,0 +1,20 @@
+:root {
+  --bg: #f2f5f8; --ink: #15202b; --muted: #5b6b7a; --panel: #ffffff;
+  --line: #d5dee7; --accent: #c45c26;
+  --font: "Gill Sans", "Trebuchet MS", sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; font-family: var(--font); color: var(--ink); min-height: 100vh;
+  background: linear-gradient(180deg, #e8eef4 0%, #f2f5f8 45%, #f7efe8 100%); }
+.app { max-width: 980px; margin: 0 auto; padding: 2rem 1.2rem 3rem; }
+.brand { font-size: clamp(2rem, 4vw, 2.8rem); margin: 0; letter-spacing: -0.03em; }
+.lede { color: var(--muted); }
+.toolbar { display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 1rem 0; }
+input, textarea, button, select { font: inherit; border-radius: 10px; border: 1px solid var(--line); padding: 0.65rem 0.8rem; background: var(--panel); }
+button { background: var(--accent); color: #fff; border-color: transparent; cursor: pointer; font-weight: 650; }
+button.ghost { background: #fff; color: var(--ink); border-color: var(--line); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 0.85rem; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 1rem; box-shadow: 0 8px 24px rgba(21,32,43,.04); }
+.card h2 { margin: 0 0 0.3rem; font-size: 1.15rem; }
+.card p { margin: 0.25rem 0; color: var(--muted); font-size: 0.95rem; }
+.form { display: grid; gap: 0.5rem; margin: 1rem 0 1.5rem; }
