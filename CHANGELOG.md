@@ -593,3 +593,21 @@ Signals:
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
 - xiaoyang111222/cn-math-taxonomy
+
+## 2026-10-30 — web-learn-2026-10-30T16
+
+Enhance Local Artists Directory with Public Trend Signals
+
+By integrating public trend signals, the Local Artists Directory can offer more engaging and relevant content to users, enhancing their experience of discovering local artists and their work.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
+- xiaoyang111222/cn-math-taxonomy

@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory with Public Trend Signals
 
-By integrating public trend signals, the Local Artists Directory can improve user engagement and discoverability. This will help local artists gain more visibility and connect better with their audience.
+By integrating public trend signals, the Local Artists Directory can offer more engaging and relevant content to users, enhancing their experience of discovering local artists and their work.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
