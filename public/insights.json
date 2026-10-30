@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-30T08:40:17.187Z",
+  "updatedAt": "2026-10-30T11:42:46.668Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory with User Feedback",
-  "summary": "To improve the Local Artists Directory, integrate user feedback mechanisms and incorporate real-time trend signals to highlight local artists based on popularity and engagement. Implement a clean design inspired by Gathin23/cleanyourtv for a better user experience.",
+  "headline": "Enhance Local Artists Directory with Public Trend Signals",
+  "summary": "By integrating features from public trend signals, the Local Artists Directory can improve user engagement and artist discovery. These enhancements will help users find local artists more easily and provide a better experience for both viewers and creators.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 45891
+      "score": 46073
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13241
+      "score": 13308
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 7908
+      "score": 7946
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6511
+      "score": 6530
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5417
+      "score": 5427
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5372
+      "score": 5422
     }
   ]
 }
