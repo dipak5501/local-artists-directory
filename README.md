@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory with Public Trend Signals
 
-Integrate aerial footage to showcase artists' work from unique perspectives and improve user engagement, implement a clean ad environment to reduce distractions, and utilize AI pose detection to highlight dynamic performances by dancers or performers in the directory.
+Integrate aerial footage and virtual tours to showcase local artists' work, incorporate AI pose detection for interactive artist interviews, and use a zero-breach toolkit to ensure user data privacy.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

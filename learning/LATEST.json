@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-31T16:01:16.524Z",
-  "featureId": "web-learn-2026-10-31T16",
+  "at": "2026-10-31T18:10:55.722Z",
+  "featureId": "web-learn-2026-10-31T18",
   "slug": "local-artists",
   "idea": {
     "headline": "Enhance Local Artists Directory with Public Trend Signals",
-    "summary": "Integrate aerial footage to showcase artists' work from unique perspectives and improve user engagement, implement a clean ad environment to reduce distractions, and utilize AI pose detection to highlight dynamic performances by dancers or performers in the directory.",
+    "summary": "Integrate aerial footage and virtual tours to showcase local artists' work, incorporate AI pose detection for interactive artist interviews, and use a zero-breach toolkit to ensure user data privacy.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13716
+      "score": 13754
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8285
+      "score": 8304
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5626
+      "score": 5638
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5567
+      "score": 5623
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5543
+      "score": 5553
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5317
+      "score": 5343
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4617
+      "score": 4621
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 4558
+      "score": 4612
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 3967
+      "score": 3978
     },
     {
       "source": "github_search",
       "title": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "score": 3866
+      "score": 3904
     },
     {
       "source": "github_search",
       "title": "designfuchen/word-atlas",
       "url": "https://github.com/designfuchen/word-atlas",
-      "score": 3523
+      "score": 3538
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 3410
+      "score": 3494
     }
   ]
 }
