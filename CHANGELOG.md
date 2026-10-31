@@ -755,3 +755,21 @@ Signals:
 - xiaoyang111222/cn-math-taxonomy
 - unclebob/ub-mode
 - simbasjungles/free-my-tv
+
+## 2026-10-31 — web-learn-2026-10-31T16
+
+Enhance Local Artists Directory with Public Trend Signals
+
+Integrate aerial footage to showcase artists' work from unique perspectives and improve user engagement, implement a clean ad environment to reduce distractions, and utilize AI pose detection to highlight dynamic performances by dancers or performers in the directory.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- xiaoyang111222/cn-math-taxonomy
+- unclebob/ub-mode
+- simbasjungles/free-my-tv
