@@ -881,3 +881,21 @@ Signals:
 - simbasjungles/free-my-tv
 - rddmwmddr/android-ad-cleaner
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-01 — web-learn-2026-11-01T12
+
+Enhance Local Artists Directory with Public Trend Signals
+
+By integrating public trend signals, the Local Artists Directory can better showcase local artists and their work. This will help in attracting more visitors and supporting local creativity.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- pengchujin/aerial-tv
+- unclebob/ub-mode
+- simbasjungles/free-my-tv
+- rddmwmddr/android-ad-cleaner
+- deepseek-ai/dsh-superagent-prototype
