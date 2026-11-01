@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-01T15:32:43.748Z",
-  "featureId": "web-learn-2026-11-01T15",
+  "at": "2026-11-01T18:34:35.670Z",
+  "featureId": "web-learn-2026-11-01T18",
   "slug": "local-artists",
   "idea": {
     "headline": "Enhance Local Artists Directory with Public Trend Signals",
-    "summary": "Integrate public trend signals to improve the user experience and discoverability of local artists. By leveraging real-time data, the app can better match users with relevant artists based on current interests and trends.",
+    "summary": "Integrate AI-driven recommendations and user-generated content to boost engagement, and leverage GPU acceleration for faster image processing of artist works.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8608
-    },
-    {
-      "source": "github_search",
-      "title": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "score": 6148
+      "score": 8651
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 6113
+      "score": 6692
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 6189
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5617
+      "score": 5642
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5599
+      "score": 5617
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5066
+      "score": 5109
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4650
+      "score": 4655
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 4389
+      "score": 4623
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 4379
+      "score": 4538
     },
     {
       "source": "github_search",
       "title": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "score": 4184
+      "score": 4238
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4071
+      "score": 4091
     },
     {
       "source": "github_search",
-      "title": "designfuchen/word-atlas",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "score": 3684
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 3707
     }
   ]
 }
