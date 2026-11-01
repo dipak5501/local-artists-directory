@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-01T03:20:09.093Z",
+  "updatedAt": "2026-11-01T06:23:06.359Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory",
-  "summary": "By integrating public trend signals, the Local Artists Directory can offer more personalized and engaging experiences for users, showcasing local artists through innovative features such as AI-generated insights and interactive artist profiles.",
+  "headline": "Enhance Local Artists Directory with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Artists Directory can better showcase local artists and their work. This will not only attract more users but also improve the overall user experience.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8359
+      "score": 8404
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5858
+      "score": 5906
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5582
+      "score": 5587
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5400
+      "score": 5441
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 4745
+      "score": 4845
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4629
+      "score": 4632
     }
   ]
 }
