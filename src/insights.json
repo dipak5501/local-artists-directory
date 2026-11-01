@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-01T12:29:28.297Z",
+  "updatedAt": "2026-11-01T15:32:43.748Z",
   "app": "Local Artists Directory",
   "headline": "Enhance Local Artists Directory with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Artists Directory can better showcase local artists and their work. This will help in attracting more visitors and supporting local creativity.",
+  "summary": "Integrate public trend signals to improve the user experience and discoverability of local artists. By leveraging real-time data, the app can better match users with relevant artists based on current interests and trends.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8540
+      "score": 8608
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6087
-    },
-    {
-      "source": "github_search",
-      "title": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5599
-    },
-    {
-      "source": "github_search",
-      "title": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5545
+      "score": 6148
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 5290
+      "score": 6113
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 5617
+    },
+    {
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 5599
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 4999
+      "score": 5066
     }
   ]
 }
