@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-02T06:48:22.683Z",
+  "updatedAt": "2026-11-02T09:51:44.666Z",
   "app": "Local Artists Directory",
   "headline": "Enhance Local Artists Directory with Public Trend Signals",
-  "summary": "By integrating AI-driven image recognition and user engagement features, the Local Artists Directory can offer more personalized recommendations and improve artist discovery. Adding a real-time chat feature will also facilitate direct communication between artists and potential clients.",
+  "summary": "Integrate AI-driven features to improve the user experience and discoverability of local artists. Leverage real-time data for personalized recommendations and enhance security measures to protect artist information.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 9730
+      "score": 10709
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8809
+      "score": 8895
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6351
+      "score": 6412
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5747
+      "score": 5802
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5278
+      "score": 5361
     },
     {
       "source": "github_search",
-      "title": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "score": 5152
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 5321
     }
   ]
 }
