@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-02T00:41:28.686Z",
+  "updatedAt": "2026-11-02T03:44:56.368Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory with Cutting-Edge Features",
-  "summary": "Integrate AI-driven recommendations and user engagement tools to boost the discoverability of local artists. Leverage real-time data for personalized artist profiles.",
+  "headline": "Enhance Local Artists Directory with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Artists Directory can offer more personalized and engaging experiences for users. This will help in discovering local artists and their work more effectively.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8674
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 8850
     },
     {
       "source": "github_search",
-      "title": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 7281
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 8737
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6242
+      "score": 6306
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5631
+      "score": 5697
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5136
+      "score": 5214
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 4866
+      "score": 5009
     }
   ]
 }
