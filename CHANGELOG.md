@@ -1025,3 +1025,21 @@ Signals:
 - unclebob/ub-mode
 - rddmwmddr/android-ad-cleaner
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-02 — web-learn-2026-11-02T12
+
+Enhance Local Artists Directory with Public Trend Signals
+
+Integrate AI-driven recommendations and user-generated content to improve the discovery of local artists, and leverage aerial footage for showcasing their work in a unique way.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- pengchujin/aerial-tv
+- unclebob/ub-mode
+- rddmwmddr/android-ad-cleaner
+- heydamir/unslop
