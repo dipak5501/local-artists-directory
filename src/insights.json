@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T10:22:21.733Z",
+  "updatedAt": "2026-11-03T13:26:24.598Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory with Public Trend Signals",
-  "summary": "Utilize public trend signals to improve the Local Artists Directory, making it more engaging and user-friendly. Integrate AI-driven features for better artist discovery and content curation.",
+  "headline": "Enhance Local Artists Directory with Trend Signals",
+  "summary": "By integrating public trend signals, the Local Artists Directory can provide more engaging and relevant content to users, enhancing their experience. This will help in showcasing local artists' work better and attracting a wider audience.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 15271
+      "score": 15702
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 6794
-    },
-    {
-      "source": "github_search",
-      "title": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "score": 6686
+      "score": 6981
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 6519
+      "score": 6824
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 6713
+    },
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 6385
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6003
-    },
-    {
-      "source": "github_search",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "score": 5810
+      "score": 6026
     }
   ]
 }
