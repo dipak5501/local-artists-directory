@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T13:26:24.598Z",
+  "updatedAt": "2026-11-03T16:30:02.496Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory with Trend Signals",
-  "summary": "By integrating public trend signals, the Local Artists Directory can provide more engaging and relevant content to users, enhancing their experience. This will help in showcasing local artists' work better and attracting a wider audience.",
+  "headline": "Enhancing Local Artists Directory with AI",
+  "summary": "By integrating modern AI technologies, the Local Artists Directory can improve user experience and artist discovery. Utilizing AI for personalized recommendations and content curation will make the app more engaging and useful.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -10,40 +10,40 @@
   ],
   "signals": [
     {
-      "source": "github_search",
-      "title": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 15702
+      "source": "hackernews",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 584
     },
     {
-      "source": "github_search",
-      "title": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "score": 6981
+      "source": "hackernews",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "score": 237
     },
     {
-      "source": "github_search",
-      "title": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 6824
+      "source": "hackernews",
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "score": 230
     },
     {
-      "source": "github_search",
-      "title": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "score": 6713
+      "source": "hackernews",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 125
     },
     {
-      "source": "github_search",
-      "title": "storytold/craft-anything",
-      "url": "https://github.com/storytold/craft-anything",
-      "score": 6385
+      "source": "hackernews",
+      "title": "Katamari Damacy but it's The Met collection",
+      "url": "https://katamari.vaguespac.es/",
+      "score": 104
     },
     {
-      "source": "github_search",
-      "title": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6026
+      "source": "hackernews",
+      "title": "AI is destroying my CS degree",
+      "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+      "score": 73
     }
   ]
 }
