@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-By integrating AI-driven features and optimizing user experience, the Local Artists Directory can better showcase local artists' work and connect them with potential clients or buyers. This will increase visibility and engagement for both artists and users.
+Improve the user experience of discovering local artists by integrating interactive storytelling features and AI-driven recommendations, while also optimizing the app’s performance for faster load times.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
