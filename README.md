@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory with Public Trend Signals
 
-By integrating AI-driven features, the Local Artists Directory can offer more personalized and engaging experiences for users. This will help in discovering local artists and their works more effectively.
+Integrate AI-driven content generation and analysis tools to enrich the local artists directory, improving user engagement and artist discovery. Implement a clean ad-free interface to enhance user experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
