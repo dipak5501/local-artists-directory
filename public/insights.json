@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-07T12:47:23.693Z",
+  "updatedAt": "2026-11-07T15:51:56.802Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory with Cutting-Edge AI",
-  "summary": "Integrate advanced AI technologies to improve the discovery and engagement of local artists, making the app more interactive and user-friendly. Leverage AI for personalized recommendations based on users' preferences.",
+  "headline": "Enhance Local Artists Directory with AI-Powered Features",
+  "summary": "Integrate advanced AI technologies to improve the user experience and discoverability of local artists. Utilize machine learning for personalized recommendations and content generation.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 20590
+      "score": 20690
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 19477
+      "score": 19881
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 13645
+      "score": 13977
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11076
+      "score": 11160
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7511
+      "score": 7554
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7233
+      "score": 7241
     }
   ]
 }
