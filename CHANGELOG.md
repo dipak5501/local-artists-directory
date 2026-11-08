@@ -1817,3 +1817,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - wangzan101/Mika
+
+## 2026-11-08 — web-learn-2026-11-08T01
+
+Enhance Local Artists Directory with Cutting-Edge Features
+
+Integrate AI-driven recommendations and interactive tools to elevate the user experience, making it easier for users to discover local artists and their unique works. Implement real-time video demonstrations of artist techniques to provide a more immersive experience.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- heydamir/unslop
+- wangzan101/Mika
+- anhao/ai-pose-gallery-zh
