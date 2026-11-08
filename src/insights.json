@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-08T19:40:17.001Z",
+  "updatedAt": "2026-11-08T22:45:33.507Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory with AI and Interactive Features",
-  "summary": "By integrating public trend signals, the Local Artists Directory can offer a more engaging experience for users by incorporating interactive storytelling elements and advanced AI features. This will help in showcasing artists' work more effectively and connecting them with potential clients or audiences.",
+  "headline": "Enhancing Local Artists Directory with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Artists Directory can offer more engaging and personalized experiences for users, showcasing local artists' work in a dynamic and interactive way.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 22371
+      "score": 22487
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21157
+      "score": 21180
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11862
+      "score": 11931
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7727
+      "score": 7736
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6629
+      "score": 6760
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6434
+      "score": 6439
     }
   ]
 }
