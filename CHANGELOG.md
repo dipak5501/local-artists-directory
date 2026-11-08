@@ -1907,3 +1907,21 @@ Signals:
 - heydamir/unslop
 - wangzan101/Mika
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-08 — web-learn-2026-11-08T16
+
+Enhance Local Artists Directory with AI and Interactive Features
+
+Integrate AI-driven recommendations and interactive features to enhance user engagement, providing a more personalized experience for discovering local artists and their work. Implement real-time feedback mechanisms to improve artist visibility and community interaction.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- wangzan101/Mika
+- zortos293/Lichii
