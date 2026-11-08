@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-08T16:31:21.640Z",
-  "featureId": "web-learn-2026-11-08T16",
+  "at": "2026-11-08T17:01:17.323Z",
+  "featureId": "web-learn-2026-11-08T17",
   "slug": "local-artists",
   "idea": {
     "headline": "Enhance Local Artists Directory with AI and Interactive Features",
-    "summary": "Integrate AI-driven recommendations and interactive features to enhance user engagement, providing a more personalized experience for discovering local artists and their work. Implement real-time feedback mechanisms to improve artist visibility and community interaction.",
+    "summary": "By integrating public trend signals, the Local Artists Directory can offer more engaging experiences for users. This includes leveraging AI for personalized artist recommendations and interactive features like virtual gallery tours.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,55 +16,55 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 22191
+      "score": 22229
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21125
+      "score": 21137
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11773
+      "score": 11786
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7715
+      "score": 7718
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6518
+      "score": 6543
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6426
+      "score": 6429
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 6035
+      "score": 6037
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 5846
+      "score": 5849
     },
     {
       "source": "github_search",
       "title": "Eglantine-Community/Eglantine",
       "url": "https://github.com/Eglantine-Community/Eglantine",
-      "score": 5362
+      "score": 5373
     },
     {
       "source": "github_search",
@@ -76,13 +76,13 @@
       "source": "github_search",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video",
-      "score": 4162
+      "score": 4203
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 4081
+      "score": 4084
     }
   ]
 }
