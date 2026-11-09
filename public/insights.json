@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-09T01:50:46.789Z",
+  "updatedAt": "2026-11-09T04:56:19.099Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory with AI",
-  "summary": "Integrate AI-driven features to provide personalized artist recommendations and improve user engagement. Leverage advanced image processing for better artwork display, and use natural language processing to enhance artist profiles.",
+  "headline": "Enhance Local Artists Directory with AI Trends",
+  "summary": "By integrating recent AI trends, the Local Artists Directory can offer more personalized artist recommendations and interactive features, enhancing user engagement and discovery of local talent.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 22727
+      "score": 23085
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21215
+      "score": 21333
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 12022
+      "score": 12111
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7750
+      "score": 7785
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6882
+      "score": 6990
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6447
+      "score": 6474
     }
   ]
 }
