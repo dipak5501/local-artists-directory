@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-09T20:22:34.322Z",
+  "updatedAt": "2026-11-09T23:28:20.778Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory with AI and Interactive Features",
-  "summary": "By integrating public trend signals, the Local Artists Directory can offer more engaging and personalized experiences for users. This will help in showcasing local artists' work better and attract a wider audience.",
+  "headline": "Enhance Local Artists Directory with AI and User Engagement",
+  "summary": "Integrate AI-driven recommendations to showcase local artists based on user preferences. Implement interactive features like virtual tours and artist stories to deepen engagement. Utilize real-time data from social media to highlight trending artists.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 24269
+      "score": 24384
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21718
+      "score": 21732
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 12666
+      "score": 12727
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7899
+      "score": 7904
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 7480
+      "score": 7586
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6546
+      "score": 6547
     }
   ]
 }
