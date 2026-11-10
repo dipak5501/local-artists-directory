@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-09T23:28:20.778Z",
+  "updatedAt": "2026-11-10T02:34:12.130Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory with AI and User Engagement",
-  "summary": "Integrate AI-driven recommendations to showcase local artists based on user preferences. Implement interactive features like virtual tours and artist stories to deepen engagement. Utilize real-time data from social media to highlight trending artists.",
+  "headline": "Enhance Local Artists Directory with Trend Signals",
+  "summary": "Integrate storytelling and craft tools to enrich artist profiles, utilize AI for personalized recommendations, and improve user engagement through interactive features.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 24384
+      "score": 24654
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21732
+      "score": 21781
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 12727
+      "score": 12794
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7904
+      "score": 7918
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 7586
+      "score": 7675
     },
     {
       "source": "github_search",
-      "title": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6547
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 6577
     }
   ]
 }
