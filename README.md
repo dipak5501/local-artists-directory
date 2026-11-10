@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-Integrate AI-driven recommendations and storytelling features to enrich the user experience, allowing artists to showcase their work more effectively. Implement a dynamic content management system to keep artist profiles up-to-date.
+Integrate AI-driven recommendations to personalize artist suggestions based on user preferences. Implement a storytelling feature that allows artists to share their creative process and background. Utilize high-quality image processing tools to improve the visual presentation of artists' work.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
