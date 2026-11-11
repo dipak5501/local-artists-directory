@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-Integrate AI-driven features to personalize artist recommendations and improve user engagement. Utilize video hosting services for showcasing artists' work, and implement interactive storytelling tools to highlight local art scenes.
+Integrate AI-driven content discovery to personalize artist recommendations and improve user engagement. Leverage video hosting services for dynamic artist showcases, and incorporate interactive storytelling tools to enrich the browsing experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
