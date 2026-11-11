@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T03:18:03.689Z",
+  "updatedAt": "2026-11-11T06:23:42.398Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory",
-  "summary": "Integrate AI-driven content discovery to personalize artist recommendations and improve user engagement. Leverage video hosting services for dynamic artist showcases, and incorporate interactive storytelling tools to enrich the browsing experience.",
+  "headline": "Enhance Local Artists Directory with Public Trend Signals",
+  "summary": "The Local Artists Directory can be improved by integrating storytelling and craft tools, utilizing AI for enhanced user experience, and incorporating creative video content to attract more artists and visitors.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 26633
+      "score": 26944
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22232
+      "score": 22278
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 13835
+      "score": 13971
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8221
+      "score": 8265
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8158
+      "score": 8194
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 8101
+      "score": 8124
     }
   ]
 }
