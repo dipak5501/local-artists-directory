@@ -2303,3 +2303,21 @@ Signals:
 - heydamir/unslop
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-11 — web-learn-2026-11-11T09
+
+Enhance Local Artists Directory
+
+Integrate AI-driven recommendations and storytelling features to engage users more deeply with local artists. Implement a user-friendly interface that allows for easy navigation of artist profiles and works, and incorporate interactive elements such as virtual tours or workshops.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- zortos293/Lichii
+- Minireel/HGhub
