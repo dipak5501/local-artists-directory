@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-12T00:58:19.202Z",
+  "updatedAt": "2026-11-12T04:03:59.808Z",
   "app": "Local Artists Directory",
   "headline": "Enhance Local Artists Directory with AI",
-  "summary": "Integrate AI-driven features to provide personalized artist recommendations and improve user engagement. Leverage AI for content analysis to enhance artist profiles, making the app more valuable and interactive.",
+  "summary": "Integrate public trend signals to improve the Local Artists Directory by adding features like personalized artist recommendations and enhanced search functionalities. Utilize AI-driven insights for better user engagement and discovery of local artists.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 28401
+      "score": 28688
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22493
+      "score": 22546
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8539
+      "score": 8584
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8291
+      "score": 8303
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 7806
+      "score": 7940
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 6986
+      "score": 7025
     }
   ]
 }
