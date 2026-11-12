@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T21:52:24.939Z",
+  "updatedAt": "2026-11-12T00:58:19.202Z",
   "app": "Local Artists Directory",
-  "headline": "Enhance Local Artists Directory",
-  "summary": "Integrate AI-driven insights and user-generated content to enrich the local artists directory, making it more engaging and informative. Implement real-time video updates for artist showcases, and add a download manager feature for easy access to artwork.",
+  "headline": "Enhance Local Artists Directory with AI",
+  "summary": "Integrate AI-driven features to provide personalized artist recommendations and improve user engagement. Leverage AI for content analysis to enhance artist profiles, making the app more valuable and interactive.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 28282
+      "score": 28401
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22481
-    },
-    {
-      "source": "github_search",
-      "title": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "score": 14475
+      "score": 22493
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8497
+      "score": 8539
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8283
+      "score": 8291
     },
     {
       "source": "github_search",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "score": 8240
+      "title": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "score": 7806
+    },
+    {
+      "source": "github_search",
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 6986
     }
   ]
 }
