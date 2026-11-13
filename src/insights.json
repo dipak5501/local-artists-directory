@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T20:20:42.778Z",
+  "updatedAt": "2026-11-13T23:27:02.305Z",
   "app": "Local Artists Directory",
   "headline": "Enhance Local Artists Directory with Cutting-Edge AI",
-  "summary": "Integrate advanced AI capabilities to provide personalized artist recommendations and improve user engagement, making the Local Artists Directory a more dynamic and interactive platform for discovering local talent.",
+  "summary": "Integrate advanced AI technologies to provide personalized artist recommendations and improve user engagement. Leverage AI-driven analytics for better insights into local artists' work trends.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,7 +13,7 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 31326
+      "score": 31393
     },
     {
       "source": "github_search",
@@ -25,25 +25,25 @@
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8957
+      "score": 8980
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8815
+      "score": 8819
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8209
+      "score": 8259
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7267
+      "score": 7293
     }
   ]
 }
