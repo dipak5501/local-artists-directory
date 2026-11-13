@@ -2609,3 +2609,21 @@ Signals:
 - NotRexed/Hookshot
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-13 — web-learn-2026-11-13T14
+
+Enhance Local Artists Directory with AI
+
+Integrate AI-driven features to improve user experience, such as personalized artist recommendations and enhanced search capabilities. Leverage natural language processing for better artist descriptions and reviews.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- zortos293/Lichii
+- Minireel/HGhub
+- janestreet/agent_skills
