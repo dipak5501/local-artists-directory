@@ -2591,3 +2591,21 @@ Signals:
 - NotRexed/Hookshot
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-13 — web-learn-2026-11-13T11
+
+Enhance Local Artists Directory with Cutting-Edge AI
+
+Integrate advanced AI capabilities to provide personalized artist recommendations and improve user engagement. Leverage storytelling techniques to showcase artists' work more effectively, enhancing the overall user experience.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- NotRexed/Hookshot
+- zortos293/Lichii
+- Minireel/HGhub

@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory with Cutting-Edge AI
 
-Integrate advanced AI technologies to provide personalized artist recommendations and improve user engagement. Leverage natural language processing for better search capabilities and content discovery.
+Integrate advanced AI capabilities to provide personalized artist recommendations and improve user engagement. Leverage storytelling techniques to showcase artists' work more effectively, enhancing the overall user experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

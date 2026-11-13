@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T07:56:28.854Z",
+  "updatedAt": "2026-11-13T11:02:59.560Z",
   "app": "Local Artists Directory",
   "headline": "Enhance Local Artists Directory with Cutting-Edge AI",
-  "summary": "Integrate advanced AI technologies to provide personalized artist recommendations and improve user engagement. Leverage natural language processing for better search capabilities and content discovery.",
+  "summary": "Integrate advanced AI capabilities to provide personalized artist recommendations and improve user engagement. Leverage storytelling techniques to showcase artists' work more effectively, enhancing the overall user experience.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 30525
+      "score": 30829
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22878
+      "score": 22931
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 9027
+      "score": 9115
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8835
+      "score": 8850
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8728
+      "score": 8764
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 7947
+      "score": 8007
     }
   ]
 }
