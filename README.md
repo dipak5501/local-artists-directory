@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-Integrate AI-driven features to personalize user experiences and improve artist discovery. Implement advanced search filters based on location, genre, and popularity. Utilize storytelling tools to showcase artists' narratives and works.
+Integrate AI-driven storytelling tools to help local artists share their unique narratives, and utilize advanced search algorithms for users to find artists based on specific interests or locations. Implement a user feedback system to continuously improve the directory’s relevance and accuracy.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
