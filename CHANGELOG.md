@@ -2627,3 +2627,21 @@ Signals:
 - zortos293/Lichii
 - Minireel/HGhub
 - janestreet/agent_skills
+
+## 2026-11-13 — web-learn-2026-11-13T17
+
+Enhance Local Artists Directory
+
+Integrate AI-driven recommendations and storytelling features to enrich user experience, allowing users to explore local artists more deeply. Implement a dynamic search function using advanced AI models for better results.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- zortos293/Lichii
+- Minireel/HGhub
+- janestreet/agent_skills
