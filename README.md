@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Artists Directory
+**Latest:** Enhance Local Artists Directory with Cutting-Edge AI
 
-Integrate AI-driven recommendations and storytelling features to enrich user experience, allowing users to explore local artists more deeply. Implement a dynamic search function using advanced AI models for better results.
+Integrate advanced AI capabilities to provide personalized artist recommendations and improve user engagement, making the Local Artists Directory a more dynamic and interactive platform for discovering local talent.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
