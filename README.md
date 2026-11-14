@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory with Trending Features
 
-Integrate real-time artist updates, interactive portfolio viewing, and user-generated content to boost engagement. Implement AI-driven recommendations for personalized artist discovery.
+Integrate real-time artist updates and interactive features to attract more users, improve user engagement, and showcase local artists' work effectively.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
