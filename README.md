@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Artists Directory with Trend Signals
+**Latest:** Enhance Local Artists Directory
 
-Integrate real-time artist updates and interactive features to improve user engagement. Leverage AI-driven insights for personalized recommendations and content curation.
+Integrate machine learning for artist recommendation and user feedback, implement real-time updates through websockets, and add a feature to showcase artists' work via augmented reality.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
