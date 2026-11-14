@@ -2789,3 +2789,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-14 — web-learn-2026-11-14T21
+
+Enhance Local Artists Directory
+
+Integrate user feedback and AI-driven recommendations to improve the discovery of local artists. Implement real-time updates for events and exhibitions, and add a feature that allows artists to showcase their work through short animated videos.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
