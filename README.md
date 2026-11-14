@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory with Trend Signals
 
-Integrate machine learning for artist discovery and personalized recommendations, utilize GPU tasks for high-quality image rendering, and implement agent-based automation for content management.
+Integrate real-time artist activity tracking and machine learning to personalize user experiences, and leverage AI-generated content for showcasing artists' work.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
