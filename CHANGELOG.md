@@ -2861,3 +2861,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-15 — web-learn-2026-11-15T09
+
+Enhance Local Artists Directory with Trend Signals
+
+Integrate machine learning and AI tools to improve artist discovery, optimize user experience through navigation enhancements, and leverage public signals for content personalization.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- libracoder/kiri
