@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-15T18:49:48.052Z",
+  "updatedAt": "2026-11-15T21:56:17.276Z",
   "app": "Local Artists Directory",
   "headline": "Enhance Local Artists Directory with Public Trend Signals",
-  "summary": "Integrate real-time artist data and user feedback to improve the discovery experience for local artists, making it more engaging and informative. Leverage AI-driven recommendations based on user preferences and trends.",
+  "summary": "Integrate real-time data and user interaction insights from public repositories to improve the Local Artists Directory, making it more engaging and useful for both artists and visitors.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8975
+      "score": 8979
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8898
+      "score": 8936
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7723
+      "score": 7730
     },
     {
       "source": "github_search",
       "title": "libracoder/kiri",
       "url": "https://github.com/libracoder/kiri",
-      "score": 5735
+      "score": 6123
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5484
+      "score": 5492
     },
     {
       "source": "github_search",
       "title": "expo/exact",
       "url": "https://github.com/expo/exact",
-      "score": 4285
+      "score": 4301
     }
   ]
 }

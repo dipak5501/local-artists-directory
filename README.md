@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory with Public Trend Signals
 
-Integrate real-time artist data and user feedback to improve the discovery experience for local artists, making it more engaging and informative. Leverage AI-driven recommendations based on user preferences and trends.
+Integrate real-time data and user interaction insights from public repositories to improve the Local Artists Directory, making it more engaging and useful for both artists and visitors.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
