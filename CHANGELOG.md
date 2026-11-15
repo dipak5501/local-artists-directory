@@ -2843,3 +2843,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-15 — web-learn-2026-11-15T06
+
+Enhance Local Artists Directory with Public Trend Signals
+
+By integrating features from public trend signals, the Local Artists Directory can offer more interactive and engaging content for users. This will help in discovering local artists and their work more effectively.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
