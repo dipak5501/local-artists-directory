@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Artists Directory with Interactive Features
+**Latest:** Enhancing Local Artists Directory with Public Trend Signals
 
-Integrate interactive features to allow users to engage more deeply with local artists and their work, enhancing the user experience. Implement AI-driven recommendations for personalized artist suggestions based on user preferences. Add a community forum where users can discuss art and share insights.
+By integrating public trend signals, the Local Artists Directory can offer more personalized and relevant artist recommendations to users. This will not only improve user engagement but also help local artists gain visibility in their communities.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

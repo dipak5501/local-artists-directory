@@ -3149,3 +3149,21 @@ Signals:
 - tangerineturtle1/NX2navi
 - jhaizhou-ops/S2Arm
 - JenkinWoo/sheeridVerify
+
+## 2026-11-17 — web-learn-2026-11-17T11
+
+Enhancing Local Artists Directory with Public Trend Signals
+
+By integrating public trend signals, the Local Artists Directory can offer more personalized and relevant artist recommendations to users. This will not only improve user engagement but also help local artists gain visibility in their communities.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- huamidev/GestaltX
+- deepseek-ai/chat-demo
+- tangerineturtle1/NX2navi
+- jhaizhou-ops/S2Arm
+- JenkinWoo/sheeridVerify
