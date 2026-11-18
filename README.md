@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-Integrate real-time artist updates and interactive features to engage users more deeply. Implement AI-driven recommendations based on user preferences. Add a community forum for artists to share work and connect with each other.
+Integrate AI chatbots for artist engagement and feedback, incorporate battery monitoring to ensure smooth app performance on mobile devices, and add vocal synthesis tools for artists to showcase their work.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
