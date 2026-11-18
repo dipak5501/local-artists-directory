@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Artists Directory
+**Latest:** Enhance Local Artists Directory with Trending Features
 
-To improve the user experience and engagement, integrate real-time artist availability checks and virtual gallery tours. Implement AI chatbots for personalized recommendations and customer support. Add a feature to allow artists to sell their work directly through the platform.
+Integrate real-time artist availability and booking features, implement AI-powered recommendations for local art events, and add a virtual gallery space to showcase artists' works.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
