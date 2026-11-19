@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-Integrate AI chatbot for artist support and feedback, incorporate battery monitoring to ensure smooth app performance on mobile devices, and implement real-time vocal synthesis for artists' demo recordings.
+Integrate AI chatbot functionality for user support and feedback, implement a battery monitoring system to ensure smooth app performance on mobile devices, and incorporate navigation features to improve user experience in exploring the directory.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
