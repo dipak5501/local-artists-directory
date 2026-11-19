@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-By integrating AI chat features and battery monitoring, the Local Artists Directory can offer a more engaging user experience. Adding real-time notifications for local events will also help artists reach out to potential clients and audiences.
+Integrate AI chatbots and battery monitoring features to improve user engagement and artist visibility. Implement real-time location services for better local discovery.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
