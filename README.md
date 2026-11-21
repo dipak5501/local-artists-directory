@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory with Public Trend Signals
 
-Integrate machine learning for artist recommendations, utilize battery monitoring technology for mobile optimization, and incorporate chat functionalities to enhance user interaction.
+Integrate real-time artist trends and user feedback to improve the discovery experience, enhance artist profiles with multimedia content, and implement a recommendation system based on user preferences.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
