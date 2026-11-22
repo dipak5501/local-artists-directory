@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-Integrate user-generated content and AI-driven recommendations to boost artist visibility, and implement a feature for artists to showcase their work through augmented reality experiences.
+Integrate user-generated content and real-time feedback to boost artist engagement. Implement AI-driven recommendations for personalized art discovery. Add a virtual gallery feature for showcasing artists' work online.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
