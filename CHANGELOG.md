@@ -3905,3 +3905,21 @@ Signals:
 - erkamyaman/rust-anything
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
+
+## 2026-11-22 — web-learn-2026-11-22T21
+
+Enhance Local Artists Directory
+
+Integrate AI-driven recommendations to personalize artist suggestions based on user preferences, and incorporate interactive elements like virtual tours or workshops to engage users more deeply with local artists. Implement a feature for artists to showcase their work through augmented reality experiences.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- huami1314/GestaltX
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger

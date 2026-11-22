@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-22T18:39:45.619Z",
+  "updatedAt": "2026-11-22T21:46:19.911Z",
   "app": "Local Artists Directory",
   "headline": "Enhance Local Artists Directory",
-  "summary": "Integrate machine learning for artist recommendations and improve user engagement through interactive features. Leverage AI to provide personalized content suggestions based on user preferences, enhancing the discovery experience of local artists and their work.",
+  "summary": "Integrate AI-driven recommendations to personalize artist suggestions based on user preferences, and incorporate interactive elements like virtual tours or workshops to engage users more deeply with local artists. Implement a feature for artists to showcase their work through augmented reality experiences.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,19 +13,19 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 12822
+      "score": 14075
     },
     {
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8802
+      "score": 8804
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7876
+      "score": 7929
     },
     {
       "source": "github_search",
@@ -37,13 +37,13 @@
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3772
+      "score": 3804
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2949
+      "score": 2963
     }
   ]
 }
