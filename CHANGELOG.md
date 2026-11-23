@@ -3977,3 +3977,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - FrigadeHQ/yogurt
+
+## 2026-11-23 — web-learn-2026-11-23T10
+
+Enhance Local Artists Directory with Public Trend Signals
+
+By integrating public trend signals, the Local Artists Directory can better showcase local artists and their work. This will help users discover new talent more effectively and support local creativity.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- FrigadeHQ/yogurt
