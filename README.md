@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-Integrate AI-driven recommendations and analytics to help users discover local artists more effectively. Implement real-time data updates for artist information and improve user engagement through interactive features.
+Integrate AI-driven recommendations and analytics to improve user engagement and artist visibility. Implement real-time data collection for local events and exhibitions, enhancing discoverability of artists. Utilize advanced search filters based on location and genre.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

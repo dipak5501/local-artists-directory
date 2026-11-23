@@ -3959,3 +3959,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - FrigadeHQ/yogurt
+
+## 2026-11-23 — web-learn-2026-11-23T07
+
+Enhance Local Artists Directory
+
+Integrate AI-driven recommendations and analytics to improve user engagement and artist visibility. Implement real-time data collection for local events and exhibitions, enhancing discoverability of artists. Utilize advanced search filters based on location and genre.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- FrigadeHQ/yogurt
