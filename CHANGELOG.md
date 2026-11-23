@@ -3923,3 +3923,21 @@ Signals:
 - erkamyaman/rust-anything
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
+
+## 2026-11-23 — web-learn-2026-11-23T00
+
+Enhance Local Artists Directory
+
+Improve the user experience of local artists by integrating AI-driven recommendations and real-time data analysis. Leverage community engagement features to foster connections between artists and their audience.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- FrigadeHQ/yogurt
