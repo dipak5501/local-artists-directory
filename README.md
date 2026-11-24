@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-Integrate real-time artist activity tracking and user-generated content to boost engagement. Implement AI-driven recommendations for personalized artist suggestions based on user preferences. Utilize a clean, modern UI/UX design to improve the overall user experience.
+Improve the user experience and functionality of the Local Artists Directory by integrating real-time artist updates, adding interactive portfolio features, and implementing a search filter for specific genres or mediums.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
