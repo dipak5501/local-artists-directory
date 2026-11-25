@@ -4265,3 +4265,21 @@ Signals:
 - xcl-dev/xcl
 - deepseek-ai/chat-demo
 - Hut-hzf/ung220z-tool
+
+## 2026-11-25 — web-learn-2026-11-25T11
+
+Enhance Local Artists Directory
+
+Integrate real-time data from public trend signals to provide artists with up-to-date information on local events and opportunities, improving user engagement through interactive features like artist profiles and portfolio showcases.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- deepseek-ai/chat-demo
+- Hut-hzf/ung220z-tool
