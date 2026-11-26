@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-The Local Artists Directory can be improved by integrating real-time artist availability checks, adding a feature for user reviews and ratings, and incorporating AI-generated recommendations based on user preferences.
+Improve the user experience and functionality of the Local Artists Directory by integrating real-time artist updates, adding a feature for virtual gallery tours, and implementing a feedback system from users to artists.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
