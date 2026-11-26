@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Artists Directory
 
-By integrating real-time data and user feedback, the Local Artists Directory can offer a more dynamic and engaging experience for users discovering local artists. Improvements will focus on enhancing search functionality, improving artist profiles, and adding interactive features.
+Integrate real-time artist updates and interactive features to engage users more deeply with local artists. Improve the backend for better performance and security, ensuring a smoother user experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
